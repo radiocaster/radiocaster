@@ -1,0 +1,26 @@
+.background {
+  background: white url('../images/bg.jpg') no-repeat;
+  background-size: contain !important;
+  background-position: top center !important;
+}
+
+.logo {
+  background-image: url('../images/logo.png');
+  background-size: 340px 340px;
+}
+
+.progressBar {
+  background-color: #e8512e;
+}
+
+.splash {
+  background-image: url('../images/splash.png');
+  background-size: 60% auto;
+}
+
+.watermark {
+  background-image: url('../images/logo.png');
+  background-size: 67px 67px;
+}
+.gcpa .gcpi { color: #707070 !important; }
+.gcpa .gcpj { color: rgba(163, 161, 161, 0.8) !important; }
